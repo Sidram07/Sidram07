@@ -24,6 +24,6 @@
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/your-link  
+## 
+- LinkedIn: https://linkedin.com/sidramappa Honnungare 
 - GitHub: https://github.com/yourusername

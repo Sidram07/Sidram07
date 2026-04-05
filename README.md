@@ -25,5 +25,5 @@
 ---
 
 ## 
-- LinkedIn: https://linkedin.com/sidramappa Honnungare 
+- LinkedIn: https://linkedin.com/sidramappa-Honnungare 
 - GitHub: https://github.com/yourusername

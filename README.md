@@ -1,6 +1,6 @@
 # Hi, I'm Sidramappa 👋
 
-🚀 Python Developer | Backend & Security Enthusiast  
+🚀 Python Developer
 
 ---
 
